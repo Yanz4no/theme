@@ -1,15 +1,54 @@
 {
-  "name": "Animasi Ruang Tamu",
-  "description": "Custom Animated Background",
+  "name": "Black & Light Blue Theme",
+  "description": "Tema Revenge hitam pekat dengan sentuhan warna biru muda.",
   "authors": [
     {
       "name": "Yanz4no"
     }
   ],
   "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#7DD3FC"],
+    "HEADER_SECONDARY": ["#38BDF8"],
+    "TEXT_NORMAL": ["#7DD3FC"],
+    "TEXT_MUTED": ["#0284C7"],
+    "TEXT_LINK": ["#38BDF8"],
+    "INTERACTIVE_NORMAL": ["#7DD3FC"],
+    "INTERACTIVE_HOVER": ["#BAE6FD"],
+    "INTERACTIVE_ACTIVE": ["#E0F2FE"],
+    "INTERACTIVE_MUTED": ["#0369A1"],
+    "BACKGROUND_PRIMARY": ["#000000"],
+    "BACKGROUND_SECONDARY": ["#09090B"],
+    "BACKGROUND_SECONDARY_ALT": ["#0F172A"],
+    "BACKGROUND_TERTIARY": ["#000000"],
+    "BACKGROUND_ACCENT": ["#0284C7"],
+    "BACKGROUND_FLOATING": ["#09090B"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#09090B"],
+    "BACKGROUND_NESTED_FLOATING": ["#000000"],
+    "BACKGROUND_MESSAGE_HOVER": ["#0F172A"],
+    "BACKGROUND_MODIFIER_HOVER": ["#0F172A"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#0284C7"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#0284C7"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#1E293B"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#09090B"],
+    "CHANNELS_DEFAULT": ["#38BDF8"],
+    "KEYBOARD": ["#000000"],
+    "CHAT_BACKGROUND": ["#000000"]
+  },
+  "rawColors": {
+    "PRIMARY_600": "#000000",
+    "PRIMARY_630": "#09090B",
+    "PRIMARY_660": "#09090B",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_800": "#000000",
+    "BRAND_500": "#38BDF8",
+    "BRAND_560": "#7DD3FC"
+  },
   "background": {
     "blur": 0,
-    "url": "https://cdn.discordapp.com/attachments/1422974339879272504/1548172707215183982/From_Klickpin.com-_Living_Room_Ideas_That_Will_Inspire_You_81375-pin-id-586945763985994582.gif?ex=6aa617b1&is=6aa4c631&hm=1a2cb0cc93704c3cb6062858c48772ce2d120216f82c65338c4d42d6451d5879&",
-    "alpha": 0.85
+    "alpha": 1,
+    "color": "#000000"
   }
 }
+
