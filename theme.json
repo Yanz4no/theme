@@ -1,6 +1,6 @@
 {
-  "name": "Black & Light Blue Theme",
-  "description": "Tema Revenge hitam pekat dengan sentuhan warna biru muda.",
+  "name": "Black & Light Blue Animated",
+  "description": "Tema Revenge hitam pekat dengan font biru muda + animasi GIF background.",
   "authors": [
     {
       "name": "Yanz4no"
@@ -17,24 +17,24 @@
     "INTERACTIVE_HOVER": ["#BAE6FD"],
     "INTERACTIVE_ACTIVE": ["#E0F2FE"],
     "INTERACTIVE_MUTED": ["#0369A1"],
-    "BACKGROUND_PRIMARY": ["#000000"],
-    "BACKGROUND_SECONDARY": ["#09090B"],
-    "BACKGROUND_SECONDARY_ALT": ["#0F172A"],
-    "BACKGROUND_TERTIARY": ["#000000"],
+    "BACKGROUND_PRIMARY": ["#000000b0"],
+    "BACKGROUND_SECONDARY": ["#09090Bb0"],
+    "BACKGROUND_SECONDARY_ALT": ["#0F172Ab0"],
+    "BACKGROUND_TERTIARY": ["#000000b0"],
     "BACKGROUND_ACCENT": ["#0284C7"],
     "BACKGROUND_FLOATING": ["#09090B"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#09090B"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#000000b0"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#09090Bb0"],
     "BACKGROUND_NESTED_FLOATING": ["#000000"],
-    "BACKGROUND_MESSAGE_HOVER": ["#0F172A"],
-    "BACKGROUND_MODIFIER_HOVER": ["#0F172A"],
+    "BACKGROUND_MESSAGE_HOVER": ["#0F172A80"],
+    "BACKGROUND_MODIFIER_HOVER": ["#0F172A80"],
     "BACKGROUND_MODIFIER_ACTIVE": ["#0284C7"],
     "BACKGROUND_MODIFIER_SELECTED": ["#0284C7"],
     "BACKGROUND_MODIFIER_ACCENT": ["#1E293B"],
-    "CHANNELTEXTAREA_BACKGROUND": ["#09090B"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#09090Bb0"],
     "CHANNELS_DEFAULT": ["#38BDF8"],
     "KEYBOARD": ["#000000"],
-    "CHAT_BACKGROUND": ["#000000"]
+    "CHAT_BACKGROUND": ["#000000b0"]
   },
   "rawColors": {
     "PRIMARY_600": "#000000",
@@ -46,9 +46,8 @@
     "BRAND_560": "#7DD3FC"
   },
   "background": {
+    "url": "https://cdn.discordapp.com/attachments/1330769136397193250/1548187978109558885/From_Klickpin.com-_Save_these_14_Creative_holiday_table_setting_ideas_that_bring_together_comfort_beauty_and_useful_ideas_you_will_actually_try_fo.gif?ex=6aa625e9&is=6aa4d469&hm=047522f4cee3213814f3f72fa391b2592d3eebabc8e1160a53fc5f31f407a88e&",
     "blur": 0,
-    "alpha": 1,
-    "color": "#000000"
+    "alpha": 0.75
   }
 }
-
