@@ -1,0 +1,15 @@
+{
+  "name": "Animasi Ruang Tamu",
+  "description": "Custom Animated Background",
+  "authors": [
+    {
+      "name": "Yanz4no"
+    }
+  ],
+  "spec": 2,
+  "background": {
+    "blur": 0,
+    "url": "https://cdn.discordapp.com/attachments/1422974339879272504/1548172707215183982/From_Klickpin.com-_Living_Room_Ideas_That_Will_Inspire_You_81375-pin-id-586945763985994582.gif?ex=6aa617b1&is=6aa4c631&hm=1a2cb0cc93704c3cb6062858c48772ce2d120216f82c65338c4d42d6451d5879&",
+    "alpha": 0.85
+  }
+}
