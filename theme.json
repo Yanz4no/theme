@@ -1,6 +1,6 @@
 {
-  "name": "Black & Light Blue Animated",
-  "description": "Tema Revenge hitam pekat dengan font biru muda + animasi GIF background.",
+  "name": "Black & Light Blue Animated Transparent",
+  "description": "Tema Revenge hitam pekat transparan dengan font biru muda + animasi GIF background.",
   "authors": [
     {
       "name": "Yanz4no"
@@ -17,37 +17,37 @@
     "INTERACTIVE_HOVER": ["#BAE6FD"],
     "INTERACTIVE_ACTIVE": ["#E0F2FE"],
     "INTERACTIVE_MUTED": ["#0369A1"],
-    "BACKGROUND_PRIMARY": ["#000000b0"],
-    "BACKGROUND_SECONDARY": ["#09090Bb0"],
-    "BACKGROUND_SECONDARY_ALT": ["#0F172Ab0"],
-    "BACKGROUND_TERTIARY": ["#000000b0"],
+    "BACKGROUND_PRIMARY": ["#00000040"],
+    "BACKGROUND_SECONDARY": ["#00000060"],
+    "BACKGROUND_SECONDARY_ALT": ["#00000060"],
+    "BACKGROUND_TERTIARY": ["#00000040"],
     "BACKGROUND_ACCENT": ["#0284C7"],
-    "BACKGROUND_FLOATING": ["#09090B"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#000000b0"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#09090Bb0"],
-    "BACKGROUND_NESTED_FLOATING": ["#000000"],
+    "BACKGROUND_FLOATING": ["#09090Bd0"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#00000000"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#00000040"],
+    "BACKGROUND_NESTED_FLOATING": ["#00000080"],
     "BACKGROUND_MESSAGE_HOVER": ["#0F172A80"],
     "BACKGROUND_MODIFIER_HOVER": ["#0F172A80"],
     "BACKGROUND_MODIFIER_ACTIVE": ["#0284C7"],
     "BACKGROUND_MODIFIER_SELECTED": ["#0284C7"],
     "BACKGROUND_MODIFIER_ACCENT": ["#1E293B"],
-    "CHANNELTEXTAREA_BACKGROUND": ["#09090Bb0"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#00000060"],
     "CHANNELS_DEFAULT": ["#38BDF8"],
     "KEYBOARD": ["#000000"],
-    "CHAT_BACKGROUND": ["#000000b0"]
+    "CHAT_BACKGROUND": ["#00000000"]
   },
   "rawColors": {
-    "PRIMARY_600": "#000000",
-    "PRIMARY_630": "#09090B",
-    "PRIMARY_660": "#09090B",
-    "PRIMARY_700": "#000000",
-    "PRIMARY_800": "#000000",
+    "PRIMARY_600": "#00000000",
+    "PRIMARY_630": "#00000040",
+    "PRIMARY_660": "#00000060",
+    "PRIMARY_700": "#00000000",
+    "PRIMARY_800": "#00000000",
     "BRAND_500": "#38BDF8",
     "BRAND_560": "#7DD3FC"
   },
   "background": {
     "url": "https://cdn.discordapp.com/attachments/1330769136397193250/1548187978109558885/From_Klickpin.com-_Save_these_14_Creative_holiday_table_setting_ideas_that_bring_together_comfort_beauty_and_useful_ideas_you_will_actually_try_fo.gif?ex=6aa625e9&is=6aa4d469&hm=047522f4cee3213814f3f72fa391b2592d3eebabc8e1160a53fc5f31f407a88e&",
     "blur": 0,
-    "alpha": 0.75
+    "alpha": 1
   }
 }
